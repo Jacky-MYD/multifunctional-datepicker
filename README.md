@@ -41,6 +41,8 @@ npm run dev
 
 ```
 # 案例效果图
+## 区间选择效果
+![Image text](https://github.com/Jacky-MYD/multifunctional-datepicker/blob/master/src/assets/image/gif.gif)<br />
 ## 常规显示
 ### 1.年月<br />
 ![Image text](https://github.com/Jacky-MYD/multifunctional-datepicker/blob/master/src/assets/image/1_1.jpg)<br />
