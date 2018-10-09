@@ -39,6 +39,12 @@ showDatePicker() {
 # serve with hot reload at localhost:8080
 npm run dev
 
+## 案例效果图
+# 常规显示
+![work flows](src/assets/images/1.jpg)
+
+# 中文格式显示
+![work flows](src/assets/images/1_1.jpg)
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
