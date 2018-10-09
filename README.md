@@ -35,8 +35,11 @@ showDatePicker() {
         // console.log(e)
     })
 },
+# ⚠️注意事项：
+当showChinese的值为true时，time的格式需要配置为：var time = ['2018年', '10月', '9日']
+当showChinese的值为false时，time的格式需要配置为：var time = [2018, 10, 9]
 
-# serve with hot reload at localhost:8080
+# serve with hot reload at localhost:8088
 npm run dev
 
 ```
