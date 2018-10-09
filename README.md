@@ -39,15 +39,32 @@ showDatePicker() {
 # serve with hot reload at localhost:8080
 npm run dev
 
+```
 ## 案例效果图
 # 常规显示
-![Image text](https://github.com/Jacky-MYD/multifunctional-datepicker/blob/master/src/assets/image/1.jpg)
+1.年月
+![Image text](https://github.com/Jacky-MYD/multifunctional-datepicker/blob/master/src/assets/image/1_1.jpg)
+2.年月日
+![Image text](https://github.com/Jacky-MYD/multifunctional-datepicker/blob/master/src/assets/image/2_2.jpg)
+3.年月日时
+![Image text](https://github.com/Jacky-MYD/multifunctional-datepicker/blob/master/src/assets/image/3_3.jpg)
+4.年月日时分
+![Image text](https://github.com/Jacky-MYD/multifunctional-datepicker/blob/master/src/assets/image/4_4.jpg)
+5.年月日时分，刻度格式
+![Image text](https://github.com/Jacky-MYD/multifunctional-datepicker/blob/master/src/assets/image/5_5.jpg)
 
 # 中文格式显示
-![Image text](https://github.com/Jacky-MYD/multifunctional-datepicker/blob/master/src/assets/image/1_1.jpg)
-```
+1.年月
+![Image text](https://github.com/Jacky-MYD/multifunctional-datepicker/blob/master/src/assets/image/1.jpg)
+2.年月日
+![Image text](https://github.com/Jacky-MYD/multifunctional-datepicker/blob/master/src/assets/image/2.jpg)
+3.年月日时
+![Image text](https://github.com/Jacky-MYD/multifunctional-datepicker/blob/master/src/assets/image/3.jpg)
+4.年月日时分
+![Image text](https://github.com/Jacky-MYD/multifunctional-datepicker/blob/master/src/assets/image/4.jpg)
+5.年月日时分，刻度格式
+![Image text](https://github.com/Jacky-MYD/multifunctional-datepicker/blob/master/src/assets/image/5.jpg)
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-# multifunctional-datepicker
+
 
 
