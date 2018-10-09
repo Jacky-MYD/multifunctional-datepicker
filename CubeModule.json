@@ -1,0 +1,19 @@
+{
+    "name": "vue-test",
+    "dependencies": "A Vue.js project",
+    "identifier": "data-public",
+    "releaseNote": "MSD",
+    "hidden": false,
+    "autoDownload": true,
+    "relatesTo": [],
+    "dependsOn": [],
+    "dependsTo": [],
+    "action": "",
+    "index": "index.html",
+    "isPcTest": 0,
+    "isDebug": 1,
+    "build": 1,
+    "version": "1.0.1",
+    "testBuild": 1,
+    "testVersion": "1.0.1"
+}
