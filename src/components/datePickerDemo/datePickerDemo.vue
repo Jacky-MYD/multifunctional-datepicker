@@ -51,7 +51,7 @@ export default {
       time: [2018, 1, 1, 0, 0],
       minTime: [2018, 1, 1, 0, 0],
       maxTime: [],
-      showChinese: true,
+      showChinese: false,
       resetTime: [],
       type: null
     }
