@@ -40,30 +40,30 @@ showDatePicker() {
 npm run dev
 
 ```
-## 案例效果图
-# 常规显示
-1.年月
-![Image text](https://github.com/Jacky-MYD/multifunctional-datepicker/blob/master/src/assets/image/1_1.jpg)
-2.年月日
-![Image text](https://github.com/Jacky-MYD/multifunctional-datepicker/blob/master/src/assets/image/2_2.jpg)
-3.年月日时
-![Image text](https://github.com/Jacky-MYD/multifunctional-datepicker/blob/master/src/assets/image/3_3.jpg)
-4.年月日时分
-![Image text](https://github.com/Jacky-MYD/multifunctional-datepicker/blob/master/src/assets/image/4_4.jpg)
-5.年月日时分，刻度格式
-![Image text](https://github.com/Jacky-MYD/multifunctional-datepicker/blob/master/src/assets/image/5_5.jpg)
+# 案例效果图
+## 常规显示
+### 1.年月<br />
+![Image text](https://github.com/Jacky-MYD/multifunctional-datepicker/blob/master/src/assets/image/1_1.jpg)<br />
+### 2.年月日<br />
+![Image text](https://github.com/Jacky-MYD/multifunctional-datepicker/blob/master/src/assets/image/2_2.jpg)<br />
+### 3.年月日时<br />
+![Image text](https://github.com/Jacky-MYD/multifunctional-datepicker/blob/master/src/assets/image/3_3.jpg)<br />
+### 4.年月日时分<br />
+![Image text](https://github.com/Jacky-MYD/multifunctional-datepicker/blob/master/src/assets/image/4_4.jpg)<br />
+### 5.年月日时分，刻度格式<br />
+![Image text](https://github.com/Jacky-MYD/multifunctional-datepicker/blob/master/src/assets/image/5_5.jpg)<br />
 
 # 中文格式显示
-1.年月
-![Image text](https://github.com/Jacky-MYD/multifunctional-datepicker/blob/master/src/assets/image/1.jpg)
-2.年月日
-![Image text](https://github.com/Jacky-MYD/multifunctional-datepicker/blob/master/src/assets/image/2.jpg)
-3.年月日时
-![Image text](https://github.com/Jacky-MYD/multifunctional-datepicker/blob/master/src/assets/image/3.jpg)
-4.年月日时分
-![Image text](https://github.com/Jacky-MYD/multifunctional-datepicker/blob/master/src/assets/image/4.jpg)
-5.年月日时分，刻度格式
-![Image text](https://github.com/Jacky-MYD/multifunctional-datepicker/blob/master/src/assets/image/5.jpg)
+### 1.年月<br />
+![Image text](https://github.com/Jacky-MYD/multifunctional-datepicker/blob/master/src/assets/image/1.jpg)<br />
+### 2.年月日<br />
+![Image text](https://github.com/Jacky-MYD/multifunctional-datepicker/blob/master/src/assets/image/2.jpg)<br />
+### 3.年月日时<br />
+![Image text](https://github.com/Jacky-MYD/multifunctional-datepicker/blob/master/src/assets/image/3.jpg)<br />
+### 4.年月日时分<br />
+![Image text](https://github.com/Jacky-MYD/multifunctional-datepicker/blob/master/src/assets/image/4.jpg)<br />
+### 5.年月日时分，刻度格式<br />
+![Image text](https://github.com/Jacky-MYD/multifunctional-datepicker/blob/master/src/assets/image/5.jpg)<br />
 
 
 
